@@ -29,6 +29,7 @@
 }
 
 .description {
+  background-color: #1a0000;
   text-align: center;
   font-size: 20px;
   width: 100%;
@@ -43,6 +44,7 @@ h2 {
   color: floralwhite;
 }
 .pied {
+  background-color: #1a0000;
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -214,26 +216,25 @@ li {
   width: 100%;
   min-height: 100%;
 } */
-.bdy{
+.bdy {
   background-color: #1a0000;
 }
-.milieu{
+.milieu {
   background-color: white;
   width: 100%;
 }
-.flex{
+.flex {
   display: flex;
   justify-content: space-between;
   margin-left: 20px;
   margin-right: 20px;
 }
-.footer{
+.footer {
   text-align: center;
   font-size: 30px;
 }
-.regform{
+.regform {
   /* text-align: center; */
   display: grid;
   place-items: center;
-  
 }
